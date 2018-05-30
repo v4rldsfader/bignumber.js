@@ -1,4 +1,4 @@
-![bignumber.js](https://raw.githubusercontent.com/MikeMcl/bignumber.js/gh-pages/bignumberjs.png)
+![clone.bignumber.js](https://raw.githubusercontent.com/MikeMcl/bignumber.js/gh-pages/bignumberjs.png)
 
 A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic.
 
